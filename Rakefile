@@ -19,3 +19,6 @@ Developing?
   `rake vendor:clean`  clean vendored dependencies used for Logstash development
 HELP
 end
+
+i have added some of the comments of changing the workstation
+
